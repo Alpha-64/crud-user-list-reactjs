@@ -1,0 +1,32 @@
+
+.tool{
+    color: rgb(229, 253, 93);
+    text-decoration: none;
+    margin-right: 1rem;
+    font-weight: bold;
+    letter-spacing: 0.07rem;
+    font-size: 1.2rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.error {
+    margin: 0px 0 0 25rem; 
+    width: 50;
+}
+.errormain{
+    background-color: rgb(255, 254, 254);
+}
+.table-m{
+    width: 80%;
+    margin: 70px 0 0 90px;
+    background-color: rgb(58, 36, 7);
+   
+}
+.img{
+    width: 99%;
+    margin-bottom: auto;
+    height: auto;
+    position:fixed;
+    background-color: rgb(65, 56, 59);
+}  
+

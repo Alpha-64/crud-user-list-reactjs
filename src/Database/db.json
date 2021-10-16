@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "name": "Turgut Alp",
+      "username": "axe_men",
+      "email": "piece2@gmail.com",
+      "phone": "+63 885214778",
+      "id": 1
+    },
+    {
+      "name": "Bychu Noyan ",
+      "username": "mercenary",
+      "email": "fine_killer@gmail.com",
+      "phone": "+39 225886335",
+      "id": 2
+    },
+    {
+      "name": "Maakpari Hatun",
+      "username": "undercover_christian",
+      "email": "coverme@gmail.com",
+      "phone": "+84 365541258",
+      "id": 3
+    },
+    {
+      "name": "Commander Mongol",
+      "username": "mad_man",
+      "email": "straight_kill@gmail.com",
+      "phone": "+98 224789963",
+      "id": 4
+    },
+    {
+      "name": "Saleebi Knight",
+      "username": "zameendar_hu",
+      "email": "gotpowers@gmail.com",
+      "phone": "+65 88965473",
+      "id": 5
+    },
+    {
+      "name": "Zafar  Supari",
+      "username": "live2_kill",
+      "email": "gun_man@gmail.com",
+      "phone": "+28 551447896",
+      "id": 6
+    },
+    {
+      "name": "Dead Pool",
+      "username": "Mr. Pool",
+      "email": "amarhu_bc@gmail.com",
+      "phone": "+1 9552000654",
+      "id": 8
+    },
+    {
+      "name": "Ravan ",
+      "username": "bad_man",
+      "email": "lanka_pati@gmail.com",
+      "phone": "+00 93654788",
+      "id": 9
+    },
+    {
+      "name": "Deathstroke",
+      "username": "deadliest_man _alive",
+      "email": "katana@gmail.com",
+      "phone": "Not Found",
+      "id": 10
+    },
+    {
+      "name": "Barry Allen ",
+      "username": "just_flash",
+      "email": "u_cant_c_me@gmail.com",
+      "phone": "+1 255559667",
+      "id": 11
+    },
+    {
+      "name": "Kratos",
+      "username": "sword_man",
+      "email": "zeusson@gmail.com",
+      "phone": "Not Found",
+      "id": 12
+    }
+  ]
+}
